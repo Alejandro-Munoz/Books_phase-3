@@ -1,12 +1,28 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
+      "title": "Harry Potter 3",
       "id": 2
     },
     {
-      "title": "The poor father 2",
-      "id": 3
+      "title": "Some other book",
+      "id": 4
+    },
+    {
+      "title": "Virgenes del Paraiso",
+      "id": 5
+    },
+    {
+      "title": "fads",
+      "id": 6
+    },
+    {
+      "title": "fas",
+      "id": 8
+    },
+    {
+      "title": "dfasd",
+      "id": 10
     }
   ]
 }
